@@ -1,15 +1,16 @@
 ### Date created
-Include the date you created this project and README file.
+The project was creatd on 07.06.2020
+This README file was initially created on 26.06.2020 
 
 ### Project Title
-Replace the Project Title
+Explore US bike share data
 
 ### Description
-Describe what your project is about and what it does
+As part of the udacity's Nanodegree program "Programming for Data Science with Python" student will be set on a task to extract some basic information from the US bikeshare data. Such as popolar times of travel, popular stations and routes, etc.
 
 ### Files used
 Include the files used
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+credits to stackoverflow.com and www.geeksforgeeks.com
 
