@@ -9,10 +9,9 @@ As part of the udacity's Nanodegree program "Programming for Data Science with P
 
 ### Files used
 The following files were used in this project:
-chicago.csv
-new_york_city.csv
-washington.csv
+* chicago.csv
+* new_york_city.csv
+* washington.csv
 
 ### Credits
-I would like to appreciate the contributing community specially in stackoverflow.com and www.geeksforgeeks.org for making it easier for others to learn deeper.
-
+I would like to appreciate the contributing community specially in [Stackoverflow](https://stackoverflow.com/) and [Geeksforgeeks](www.geeksforgeeks.org) for making it easier for others to learn deeper.
