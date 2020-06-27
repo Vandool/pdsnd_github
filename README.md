@@ -14,5 +14,5 @@ new_york_city.csv
 washington.csv
 
 ### Credits
-I would like to appreciate the contributing community specially in stackoverflow.com and www.geeksforgeeks.com for making it easier for others to learn deeper.
+I would like to appreciate the contributing community specially in stackoverflow.com and www.geeksforgeeks.org for making it easier for others to learn deeper.
 
