@@ -21,9 +21,9 @@ cityData = {'chicago': 'chicago.csv',
 def main():
 
     # Welcoming meassge
-    print("*" * 153)
-    print("* Welcome to the bikeshare data query maker. Here we would like you to answer some questions first, then we will provide you with some interesting data *")
-    print("*" * 153)
+    print("*" * 45)
+    print("* Welcome to the bikeshare data query maker *")
+    print("*" * 45)
 
     # Get the city
     city = get_city()
@@ -88,19 +88,16 @@ def get_city():
         if re.search("c(hicago)?|1", valueGiven, re.IGNORECASE):
             city = "chicago"
             return city
-            break
 
         # Check for input Washington
         elif re.search("w(ashington)?|2", valueGiven, re.IGNORECASE):
             city = "washington"
             return city
-            break
 
         # Check for input New York City
         elif re.search("n(ew york cit)?y|n|3", valueGiven, re.IGNORECASE):
             city = "new york city"
             return city
-            break
 
         # Check for input > 24
         else:
